@@ -1,0 +1,7 @@
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
